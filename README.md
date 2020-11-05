@@ -29,11 +29,12 @@
 - 🔭 I’m currently working on [Discord Bots](https://discord.js.org/#/).
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCCKKGD3xVOqJGAlptVV-AxA?view_as=subscriber).
-- 🤔 I’m looking for help with VelocityX documentation.
+- 🤔 I’m looking for help with Web Desing Front/Back-End Development,
+- 
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @AG_Soper](https://twitter.com/AG_Soper) , [Youtube - @AG Soper](https://www.youtube.com/channel/UCCKKGD3xVOqJGAlptVV-AxA?view_as=subscriber)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I love Dogs.
 
 [![Twitter: AG_Soper](https://img.shields.io/twitter/follow/AG_Soper?style=social)](https://twitter.com/AG_Soper)
 [![Linkedin: Soper123](https://img.shields.io/badge/-soper123-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soper123/)](https://www.linkedin.com/in/sope123/)
