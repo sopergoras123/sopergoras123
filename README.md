@@ -36,7 +36,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: AG_Soper](https://img.shields.io/twitter/follow/AG_Soper?style=social)](https://twitter.com/AG_Soper)
-[![Linkedin: Soper123](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soper123/)](https://www.linkedin.com/in/sope123/)
+[![Linkedin: Soper123](https://img.shields.io/badge/-soper123-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soper123/)](https://www.linkedin.com/in/sope123/)
 [![GitHub SoperGoras123](https://img.shields.io/github/followers/sopergoras123?label=follow&style=social)](https://github.com/sopergoras123)
 
 
