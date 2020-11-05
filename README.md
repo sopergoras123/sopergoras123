@@ -32,13 +32,12 @@
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @AG_Soper](https://twitter.com/AG_Soper) , [Youtube - @AG Soper](https://www.youtube.com/channel/UCCKKGD3xVOqJGAlptVV-AxA?view_as=subscriber)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Twitter: AG_Soper](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Linkedin: Soper123](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub SoperGoras123](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 
 
 **Languages and Tools:**  
