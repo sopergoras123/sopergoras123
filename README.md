@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCCKKGD3xVOqJGAlptVV-AxA?view_as=subscriber).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/AG_Soper) , [Youtube - @AG Soper](https://www.youtube.com/channel/UCCKKGD3xVOqJGAlptVV-AxA?view_as=subscriber)
+- 📫 How to reach me: [Twitter - @AG_Soper](https://twitter.com/AG_Soper) , [Youtube - @AG Soper](https://www.youtube.com/channel/UCCKKGD3xVOqJGAlptVV-AxA?view_as=subscriber)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
